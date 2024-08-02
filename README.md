@@ -19,7 +19,6 @@ To compare a user query against a video subtitle document, the core logic involv
    - Observe that the given data is a database file.
    - Go through the README.txt to understand what is there inside the database.
    - Take care of decoding the files inside the database.
-   - If you have limited compute resources, you can take a random 30% of the data.
    - Apply appropriate cleaning steps on subtitle documents (whatever is required).
 
 2. **Vectorization:**
